@@ -1,7 +1,6 @@
 
 import json
 import zipfile
-
 # Function below unzips the archive to the local directory. 
 
 def unzip_data(input_data_path):
